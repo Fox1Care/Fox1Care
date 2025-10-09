@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hello, I am F1CLeo!
+📖 Finishing 4th course of Computer Science (Development and maintenance of software for information systems) at [college](https://mtk-bks.by/);   
+🤓 Always ready to dive in, adapt fast, and master any stack thrown my way;    
+💻 Actively looking for internship as a Frontend developer, planning to be a Fullstack in the future;
 
-<!--
-**Fox1Care/Fox1Care** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Tech Stack:
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-68217A?logo=dotnet&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fox1Care&show_icons=true&theme=tokyonight)
+
+
+
