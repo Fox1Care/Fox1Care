@@ -9,6 +9,8 @@
 ![C#](https://img.shields.io/badge/C%23-68217A?logo=dotnet&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-B01562?logo=sass&logoColor=white&style=for-the-badge)
+![VITE](https://img.shields.io/badge/Vite-4A50D5?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ## GitHub Stats:
